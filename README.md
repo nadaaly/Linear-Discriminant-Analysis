@@ -1,2 +1,2 @@
 # Linear-Discriminant-Analysis
-Linear Discriminant Classifier built from scratch using iris data set and basic matrices operations
+Linear Discriminant Classifier built from scratch using iris data set, basic matrices operations, pandas , numpy , and sklearn
